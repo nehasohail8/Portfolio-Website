@@ -29,6 +29,7 @@ body::before {
   z-index: -1;
 }
 
+
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
@@ -36,7 +37,7 @@ body::before {
 }
 
 a {
-  color: #961dc5;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -44,7 +45,7 @@ a:hover {
   color:  #d334e8;
   text-decoration: none;
 }
-
+a,
 h1,
 h2,
 h3,
@@ -1188,3 +1189,4 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
